@@ -1,0 +1,9 @@
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/powerline/powerline.git
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "Shades-of-Purple-iTerm2"]
+	path = Shades-of-Purple-iTerm2
+	url = https://github.com/ahmadawais/Shades-of-Purple-iTerm2.git
