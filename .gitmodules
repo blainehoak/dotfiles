@@ -7,3 +7,6 @@
 [submodule "Shades-of-Purple-iTerm2"]
 	path = Shades-of-Purple-iTerm2
 	url = https://github.com/ahmadawais/Shades-of-Purple-iTerm2.git
+[submodule "iterm-components"]
+	path = iterm-components
+	url = https://github.com/sheatsley/iterm-components.git
