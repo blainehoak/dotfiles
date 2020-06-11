@@ -18,7 +18,6 @@ cask "spotify"
 cask "spotmenu"
 cask "visual-studio-code"
 cask "zoom"
-mas "Evernote", id: 406056744
 mas "Magnet", id: 441258766
 mas "Notability", id: 736189492
 mas "Xcode", id: 497799835
