@@ -1,0 +1,46 @@
+# configuration variables
+BREW="https://raw.githubusercontent.com/Homebrew/install/master/install.sh"
+ITERM=$HOME"/Library/Application\ Support/iTerm2/"
+
+# move to home directory
+echo "Moving to $HOME ..."
+cd $HOME
+
+# install brew if needed
+if ! type brew >/dev/null
+then
+    echo "Installing brew..."
+    /bin/bash -c "$(curl -fsSL $BREW)"
+fi
+
+# install homebrew-bundle, packages, casks and mas apps
+echo "Updating brew packages..."
+brew bundle --verbose --file=.brewbundle
+
+
+# updating the remaining applications through submodules
+yadm submodule update --init --recursive
+yadm submodule update --remote
+
+# configure iTerm2
+if ! defaults read com.googlecode.iterm2 PrefsCustomFolder >/dev/null 2>&1
+then
+    echo "Configuring iTerm2 profiles and wigets..."
+    defaults write com.googlecode.iterm2 PrefsCustomFolder "$HOME/.iterm2"
+fi
+
+# configure VSCode 
+if ! defaults read com.googlecode.VSCode PrefsCustomFolder >/dev/null 2>&1
+then
+    echo "Configuring VSCode profiles and wigets..."
+    defaults write com.googlecode.VSCode PrefsCustomFolder "$HOME/.vscode"
+fi
+
+# configure macOS and logout (necessary for some settings to take effect)
+if ! [ $(defaults read com.apple.dock mru-spaces) -eq 0 ]
+then
+    echo "Setting macOS preferences and logging out..."
+    sh .macos
+    osascript -e 'tell app "System Events" to log out'
+fi
+echo "Bootstrap complete."
