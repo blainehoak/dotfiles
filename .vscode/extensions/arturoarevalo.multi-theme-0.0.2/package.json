@@ -1,0 +1,1702 @@
+{
+	"name": "multi-theme",
+	"displayName": "MultiTheme",
+	"description": "A collection of themes ported from TextMate",
+	"version": "0.0.2",
+	"publisher": "arturoarevalo",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MultiTheme 1337",
+				"uiTheme": "vs-dark",
+				"path": "./themes/1337.tmTheme"
+			},
+			{
+				"label": "MultiTheme 3024_Day",
+				"uiTheme": "vs-dark",
+				"path": "./themes/3024_Day.tmTheme"
+			},
+			{
+				"label": "MultiTheme 3024_Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/3024_Night.tmTheme"
+			},
+			{
+				"label": "MultiTheme 8-Colour-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/8-Colour-Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Abyss",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Abyss.tmTheme"
+			},
+			{
+				"label": "MultiTheme Acai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Acai.tmTheme"
+			},
+			{
+				"label": "MultiTheme Active4D",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Active4D.tmTheme"
+			},
+			{
+				"label": "MultiTheme Adventure_Time",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Adventure_Time.tmTheme"
+			},
+			{
+				"label": "MultiTheme Afterglow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Afterglow.tmTheme"
+			},
+			{
+				"label": "MultiTheme AgolaDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/AgolaDark.tmTheme"
+			},
+			{
+				"label": "MultiTheme All_Hallows_Eve",
+				"uiTheme": "vs-dark",
+				"path": "./themes/All_Hallows_Eve.tmTheme"
+			},
+			{
+				"label": "MultiTheme Amber",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Amber.tmTheme"
+			},
+			{
+				"label": "MultiTheme Amy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Amy.tmTheme"
+			},
+			{
+				"label": "MultiTheme Anarchist",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Anarchist.tmTheme"
+			},
+			{
+				"label": "MultiTheme AnarchistEighties",
+				"uiTheme": "vs-dark",
+				"path": "./themes/AnarchistEighties.tmTheme"
+			},
+			{
+				"label": "MultiTheme Angular-io-Code",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Angular-io-Code.tmTheme"
+			},
+			{
+				"label": "MultiTheme Another_Kolor_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Another_Kolor_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Another_Kolor_Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Another_Kolor_Light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Array",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Array.tmTheme"
+			},
+			{
+				"label": "MultiTheme ArtSchool",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ArtSchool.tmTheme"
+			},
+			{
+				"label": "MultiTheme Ascetic-Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ascetic-Night.tmTheme"
+			},
+			{
+				"label": "MultiTheme Ascetic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ascetic.tmTheme"
+			},
+			{
+				"label": "MultiTheme Aurora",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aurora.tmTheme"
+			},
+			{
+				"label": "MultiTheme Batman",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Batman.tmTheme"
+			},
+			{
+				"label": "MultiTheme BatmanLight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BatmanLight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Better_JS",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Better_JS.tmTheme"
+			},
+			{
+				"label": "MultiTheme Birds_of_Paradise",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Birds_of_Paradise.tmTheme"
+			},
+			{
+				"label": "MultiTheme Bittersweet",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Bittersweet.tmTheme"
+			},
+			{
+				"label": "MultiTheme Blackboard",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Blackboard.tmTheme"
+			},
+			{
+				"label": "MultiTheme Bliss",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Bliss.tmTheme"
+			},
+			{
+				"label": "MultiTheme BlueDawn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BlueDawn.tmTheme"
+			},
+			{
+				"label": "MultiTheme BlueLover",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BlueLover.tmTheme"
+			},
+			{
+				"label": "MultiTheme Blueprint",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Blueprint.tmTheme"
+			},
+			{
+				"label": "MultiTheme Boron",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Boron.tmTheme"
+			},
+			{
+				"label": "MultiTheme BoxUK",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BoxUK.tmTheme"
+			},
+			{
+				"label": "MultiTheme Brilliance_Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Brilliance_Black.tmTheme"
+			},
+			{
+				"label": "MultiTheme Brilliance_Dull",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Brilliance_Dull.tmTheme"
+			},
+			{
+				"label": "MultiTheme Brogrammer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Brogrammer.tmTheme"
+			},
+			{
+				"label": "MultiTheme Brunette",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Brunette.tmTheme"
+			},
+			{
+				"label": "MultiTheme Bungler",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Bungler.tmTheme"
+			},
+			{
+				"label": "MultiTheme Cake",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cake.tmTheme"
+			},
+			{
+				"label": "MultiTheme CandyLand",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CandyLand.tmTheme"
+			},
+			{
+				"label": "MultiTheme Candy_Brights",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Candy_Brights.tmTheme"
+			},
+			{
+				"label": "MultiTheme Capo-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Capo-Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Capo-Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Capo-Light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Carbonight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Carbonight.tmTheme"
+			},
+			{
+				"label": "MultiTheme CarbonightBlue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CarbonightBlue.tmTheme"
+			},
+			{
+				"label": "MultiTheme Carbonnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Carbonnight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Chameleon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chameleon.tmTheme"
+			},
+			{
+				"label": "MultiTheme Chelevra-Ayu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chelevra-Ayu.tmTheme"
+			},
+			{
+				"label": "MultiTheme Chelevra-Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chelevra-Material.tmTheme"
+			},
+			{
+				"label": "MultiTheme Choco",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Choco.tmTheme"
+			},
+			{
+				"label": "MultiTheme Chrome_DevTools",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chrome_DevTools.tmTheme"
+			},
+			{
+				"label": "MultiTheme Clouds",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Clouds.tmTheme"
+			},
+			{
+				"label": "MultiTheme Clouds_Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Clouds_Midnight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Cobalt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cobalt.tmTheme"
+			},
+			{
+				"label": "MultiTheme Code-Lover",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Code-Lover.tmTheme"
+			},
+			{
+				"label": "MultiTheme CodeWarrior",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CodeWarrior.tmTheme"
+			},
+			{
+				"label": "MultiTheme Coffee_Dark_Roast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Coffee_Dark_Roast.tmTheme"
+			},
+			{
+				"label": "MultiTheme Colonoscopy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Colonoscopy.tmTheme"
+			},
+			{
+				"label": "MultiTheme Cozy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cozy.tmTheme"
+			},
+			{
+				"label": "MultiTheme Daguiheso",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Daguiheso.tmTheme"
+			},
+			{
+				"label": "MultiTheme Daily-Grind",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Daily-Grind.tmTheme"
+			},
+			{
+				"label": "MultiTheme Dark-Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark-Dracula.tmTheme"
+			},
+			{
+				"label": "MultiTheme DarkCF",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkCF.tmTheme"
+			},
+			{
+				"label": "MultiTheme DarkKorokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkKorokai.tmTheme"
+			},
+			{
+				"label": "MultiTheme DarkMosquito",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkMosquito.tmTheme"
+			},
+			{
+				"label": "MultiTheme DarkRoomContrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkRoomContrast.tmTheme"
+			},
+			{
+				"label": "MultiTheme DarkRoomNormal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkRoomNormal.tmTheme"
+			},
+			{
+				"label": "MultiTheme Dark_Krystal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark_Krystal.tmTheme"
+			},
+			{
+				"label": "MultiTheme Darkside",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Darkside.tmTheme"
+			},
+			{
+				"label": "MultiTheme Darkside_light_selection",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Darkside_light_selection.tmTheme"
+			},
+			{
+				"label": "MultiTheme Dawn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dawn.tmTheme"
+			},
+			{
+				"label": "MultiTheme DeerAntlerDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DeerAntlerDark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dracula.tmTheme"
+			},
+			{
+				"label": "MultiTheme Dreamweaver",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dreamweaver.tmTheme"
+			},
+			{
+				"label": "MultiTheme Druid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Druid.tmTheme"
+			},
+			{
+				"label": "MultiTheme Earthsong",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Earthsong.tmTheme"
+			},
+			{
+				"label": "MultiTheme Earthworm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Earthworm.tmTheme"
+			},
+			{
+				"label": "MultiTheme Easyballs",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Easyballs.tmTheme"
+			},
+			{
+				"label": "MultiTheme Eden",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Eden.tmTheme"
+			},
+			{
+				"label": "MultiTheme EditPlus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/EditPlus.tmTheme"
+			},
+			{
+				"label": "MultiTheme EggplantParm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/EggplantParm.tmTheme"
+			},
+			{
+				"label": "MultiTheme Eiffel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Eiffel.tmTheme"
+			},
+			{
+				"label": "MultiTheme Espresso_Libre",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Espresso_Libre.tmTheme"
+			},
+			{
+				"label": "MultiTheme Facebook",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Facebook.tmTheme"
+			},
+			{
+				"label": "MultiTheme FireCode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/FireCode.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flat.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flat_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flat_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flatgrammer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatgrammer.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flatland_Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatland_Black.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flatland_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatland_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Flatland_Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatland_Monokai.tmTheme"
+			},
+			{
+				"label": "MultiTheme FluoroMachine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/FluoroMachine.tmTheme"
+			},
+			{
+				"label": "MultiTheme Focus_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Focus_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Focus_Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Focus_Light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Foggy-Evening",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Foggy-Evening.tmTheme"
+			},
+			{
+				"label": "MultiTheme Foggy-Morning",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Foggy-Morning.tmTheme"
+			},
+			{
+				"label": "MultiTheme Frank_Sinatra",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Frank_Sinatra.tmTheme"
+			},
+			{
+				"label": "MultiTheme FreshCut",
+				"uiTheme": "vs-dark",
+				"path": "./themes/FreshCut.tmTheme"
+			},
+			{
+				"label": "MultiTheme Frontier",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Frontier.tmTheme"
+			},
+			{
+				"label": "MultiTheme Frozen",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Frozen.tmTheme"
+			},
+			{
+				"label": "MultiTheme Future_Funk",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Future_Funk.tmTheme"
+			},
+			{
+				"label": "MultiTheme Gedit",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gedit.tmTheme"
+			},
+			{
+				"label": "MultiTheme GhettoBerryBlast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GhettoBerryBlast.tmTheme"
+			},
+			{
+				"label": "MultiTheme GitHubCleanWhite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GitHubCleanWhite.tmTheme"
+			},
+			{
+				"label": "MultiTheme Github-v2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Github-v2.tmTheme"
+			},
+			{
+				"label": "MultiTheme Github",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Github.tmTheme"
+			},
+			{
+				"label": "MultiTheme Gloom",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gloom.tmTheme"
+			},
+			{
+				"label": "MultiTheme Glowfish",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Glowfish.tmTheme"
+			},
+			{
+				"label": "MultiTheme GoldenDragon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GoldenDragon.tmTheme"
+			},
+			{
+				"label": "MultiTheme Goldfish",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Goldfish.tmTheme"
+			},
+			{
+				"label": "MultiTheme Gooey",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gooey.tmTheme"
+			},
+			{
+				"label": "MultiTheme GooeyPastel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GooeyPastel.tmTheme"
+			},
+			{
+				"label": "MultiTheme GrandsonOfObsidian",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrandsonOfObsidian.tmTheme"
+			},
+			{
+				"label": "MultiTheme Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Green.tmTheme"
+			},
+			{
+				"label": "MultiTheme Grunge",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Grunge.tmTheme"
+			},
+			{
+				"label": "MultiTheme Gruvbox-N",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gruvbox-N.tmTheme"
+			},
+			{
+				"label": "MultiTheme Hacker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hacker.tmTheme"
+			},
+			{
+				"label": "MultiTheme Hail",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hail.tmTheme"
+			},
+			{
+				"label": "MultiTheme HalfLife",
+				"uiTheme": "vs-dark",
+				"path": "./themes/HalfLife.tmTheme"
+			},
+			{
+				"label": "MultiTheme Hammer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hammer.tmTheme"
+			},
+			{
+				"label": "MultiTheme Harper",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Harper.tmTheme"
+			},
+			{
+				"label": "MultiTheme Henanigans",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Henanigans.tmTheme"
+			},
+			{
+				"label": "MultiTheme Heroku",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Heroku.tmTheme"
+			},
+			{
+				"label": "MultiTheme Hopscotch",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch.tmTheme"
+			},
+			{
+				"label": "MultiTheme HotDogStand",
+				"uiTheme": "vs-dark",
+				"path": "./themes/HotDogStand.tmTheme"
+			},
+			{
+				"label": "MultiTheme Humane",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Humane.tmTheme"
+			},
+			{
+				"label": "MultiTheme Humble",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Humble.tmTheme"
+			},
+			{
+				"label": "MultiTheme Hyrule",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hyrule.tmTheme"
+			},
+			{
+				"label": "MultiTheme IDLE",
+				"uiTheme": "vs-dark",
+				"path": "./themes/IDLE.tmTheme"
+			},
+			{
+				"label": "MultiTheme ILM",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ILM.tmTheme"
+			},
+			{
+				"label": "MultiTheme ILMHackers",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ILMHackers.tmTheme"
+			},
+			{
+				"label": "MultiTheme ILMLight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ILMLight.tmTheme"
+			},
+			{
+				"label": "MultiTheme ILMShell",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ILMShell.tmTheme"
+			},
+			{
+				"label": "MultiTheme ILMStream",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ILMStream.tmTheme"
+			},
+			{
+				"label": "MultiTheme IR_Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/IR_Black.tmTheme"
+			},
+			{
+				"label": "MultiTheme Iceberg",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Iceberg.tmTheme"
+			},
+			{
+				"label": "MultiTheme Into-the-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Into-the-Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme IridiumStar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/IridiumStar.tmTheme"
+			},
+			{
+				"label": "MultiTheme Jellybeams",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jellybeams.tmTheme"
+			},
+			{
+				"label": "MultiTheme Juicy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Juicy.tmTheme"
+			},
+			{
+				"label": "MultiTheme Kabbotta",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kabbotta.tmTheme"
+			},
+			{
+				"label": "MultiTheme Kane",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kane.tmTheme"
+			},
+			{
+				"label": "MultiTheme Kimbie_dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kimbie_dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Kimbie_light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kimbie_light.tmTheme"
+			},
+			{
+				"label": "MultiTheme KoralGreen",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KoralGreen.tmTheme"
+			},
+			{
+				"label": "MultiTheme KyzDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KyzDark.tmTheme"
+			},
+			{
+				"label": "MultiTheme LAZY",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAZY.tmTheme"
+			},
+			{
+				"label": "MultiTheme Laravel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Laravel.tmTheme"
+			},
+			{
+				"label": "MultiTheme LastNight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LastNight.tmTheme"
+			},
+			{
+				"label": "MultiTheme LastRoom_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LastRoom_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme LastRoom_Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LastRoom_Light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Late_Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Late_Night.tmTheme"
+			},
+			{
+				"label": "MultiTheme Lava",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lava.tmTheme"
+			},
+			{
+				"label": "MultiTheme Lavender",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lavender.tmTheme"
+			},
+			{
+				"label": "MultiTheme LegacyPack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LegacyPack.tmTheme"
+			},
+			{
+				"label": "MultiTheme LightBlue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LightBlue.tmTheme"
+			},
+			{
+				"label": "MultiTheme LightBulb",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LightBulb.tmTheme"
+			},
+			{
+				"label": "MultiTheme MagicWB_Amiga",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicWB_Amiga.tmTheme"
+			},
+			{
+				"label": "MultiTheme MarsPeacock",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MarsPeacock.tmTheme"
+			},
+			{
+				"label": "MultiTheme Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material.tmTheme"
+			},
+			{
+				"label": "MultiTheme Mcedit",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Mcedit.tmTheme"
+			},
+			{
+				"label": "MultiTheme Mellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Mellow.tmTheme"
+			},
+			{
+				"label": "MultiTheme Merbivore",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Merbivore.tmTheme"
+			},
+			{
+				"label": "MultiTheme Merbivore_Soft",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Merbivore_Soft.tmTheme"
+			},
+			{
+				"label": "MultiTheme Meteor",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Meteor.tmTheme"
+			},
+			{
+				"label": "MultiTheme Metropolis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Metropolis.tmTheme"
+			},
+			{
+				"label": "MultiTheme Minteresting",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Minteresting.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Aurora",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Aurora.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Charcoal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Charcoal.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Cobalt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Cobalt.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Contrast.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Dev",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Dev.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-HighFructose",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-HighFructose.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Midnight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Soft-MD",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Soft-MD.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Soft",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Soft.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai-Vivid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai-Vivid.tmTheme"
+			},
+			{
+				"label": "MultiTheme Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai.tmTheme"
+			},
+			{
+				"label": "MultiTheme MonokaiEasyForRetina",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MonokaiEasyForRetina.tmTheme"
+			},
+			{
+				"label": "MultiTheme Mustard",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Mustard.tmTheme"
+			},
+			{
+				"label": "MultiTheme Muukii",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Muukii.tmTheme"
+			},
+			{
+				"label": "MultiTheme NaturalContrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NaturalContrast.tmTheme"
+			},
+			{
+				"label": "MultiTheme Neon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Neon.tmTheme"
+			},
+			{
+				"label": "MultiTheme NeonDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NeonDark.tmTheme"
+			},
+			{
+				"label": "MultiTheme NeonGlow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NeonGlow.tmTheme"
+			},
+			{
+				"label": "MultiTheme NetBeans",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NetBeans.tmTheme"
+			},
+			{
+				"label": "MultiTheme Nette",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nette.tmTheme"
+			},
+			{
+				"label": "MultiTheme New-Day",
+				"uiTheme": "vs-dark",
+				"path": "./themes/New-Day.tmTheme"
+			},
+			{
+				"label": "MultiTheme NorthPole",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NorthPole.tmTheme"
+			},
+			{
+				"label": "MultiTheme Nouba",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nouba.tmTheme"
+			},
+			{
+				"label": "MultiTheme Oblivion",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oblivion.tmTheme"
+			},
+			{
+				"label": "MultiTheme Ocean-Dark-Soda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ocean-Dark-Soda.tmTheme"
+			},
+			{
+				"label": "MultiTheme Oceanic_Next",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic_Next.tmTheme"
+			},
+			{
+				"label": "MultiTheme Paraiso_dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Paraiso_dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Paraiso_light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Paraiso_light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Pastel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pastel.tmTheme"
+			},
+			{
+				"label": "MultiTheme Pastels_on_Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pastels_on_Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Patriot",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Patriot.tmTheme"
+			},
+			{
+				"label": "MultiTheme Peacock",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Peacock.tmTheme"
+			},
+			{
+				"label": "MultiTheme Poppins",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Poppins.tmTheme"
+			},
+			{
+				"label": "MultiTheme Potpourri",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Potpourri.tmTheme"
+			},
+			{
+				"label": "MultiTheme Poyeyo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Poyeyo.tmTheme"
+			},
+			{
+				"label": "MultiTheme Poyeyo_Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Poyeyo_Blue.tmTheme"
+			},
+			{
+				"label": "MultiTheme PurpleHaze",
+				"uiTheme": "vs-dark",
+				"path": "./themes/PurpleHaze.tmTheme"
+			},
+			{
+				"label": "MultiTheme Purrora",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Purrora.tmTheme"
+			},
+			{
+				"label": "MultiTheme QuietLight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/QuietLight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Rebecca-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rebecca-dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Rebecca-mint",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rebecca-mint.tmTheme"
+			},
+			{
+				"label": "MultiTheme Rebecca-sky",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rebecca-sky.tmTheme"
+			},
+			{
+				"label": "MultiTheme Rebecca",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rebecca.tmTheme"
+			},
+			{
+				"label": "MultiTheme Resesif",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Resesif.tmTheme"
+			},
+			{
+				"label": "MultiTheme Revelation",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Revelation.tmTheme"
+			},
+			{
+				"label": "MultiTheme Riot",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Riot.tmTheme"
+			},
+			{
+				"label": "MultiTheme SalmonOnIce",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SalmonOnIce.tmTheme"
+			},
+			{
+				"label": "MultiTheme Seafoam-Pastel-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Seafoam-Pastel-Dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Seafoam-Pastel-Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Seafoam-Pastel-Light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Seahorse",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Seahorse.tmTheme"
+			},
+			{
+				"label": "MultiTheme Shadows",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Shadows.tmTheme"
+			},
+			{
+				"label": "MultiTheme SisterTardis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SisterTardis.tmTheme"
+			},
+			{
+				"label": "MultiTheme Slime",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Slime.tmTheme"
+			},
+			{
+				"label": "MultiTheme Slush_and_Poppies",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Slush_and_Poppies.tmTheme"
+			},
+			{
+				"label": "MultiTheme Smyck",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Smyck.tmTheme"
+			},
+			{
+				"label": "MultiTheme Snappy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Snappy.tmTheme"
+			},
+			{
+				"label": "MultiTheme SolarSooty",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SolarSooty.tmTheme"
+			},
+			{
+				"label": "MultiTheme Solarflare",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarflare.tmTheme"
+			},
+			{
+				"label": "MultiTheme Solarized-dark-Nitrous.io",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized-dark-Nitrous.io.tmTheme"
+			},
+			{
+				"label": "MultiTheme Solarized-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized-dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Solarized-light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized-light.tmTheme"
+			},
+			{
+				"label": "MultiTheme Solarized-ocean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized-ocean.tmTheme"
+			},
+			{
+				"label": "MultiTheme Sourlick",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sourlick.tmTheme"
+			},
+			{
+				"label": "MultiTheme SpaceCadet",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceCadet.tmTheme"
+			},
+			{
+				"label": "MultiTheme SpaceRave",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceRave.tmTheme"
+			},
+			{
+				"label": "MultiTheme Spearmint",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Spearmint.tmTheme"
+			},
+			{
+				"label": "MultiTheme Spring",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Spring.tmTheme"
+			},
+			{
+				"label": "MultiTheme Stark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Stark.tmTheme"
+			},
+			{
+				"label": "MultiTheme Sunburst",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sunburst.tmTheme"
+			},
+			{
+				"label": "MultiTheme Sweet_Dreams",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sweet_Dreams.tmTheme"
+			},
+			{
+				"label": "MultiTheme Symfony",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Symfony.tmTheme"
+			},
+			{
+				"label": "MultiTheme ThemebyDarkV1",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ThemebyDarkV1.tmTheme"
+			},
+			{
+				"label": "MultiTheme ThemebyDarkV2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ThemebyDarkV2.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tireless",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tireless.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Blue.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Blue_2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Blue_2.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Blue_Light",
+				"uiTheme": "vs",
+				"path": "./themes/Tomorrow_Night_Blue.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Blue_2_Light",
+				"uiTheme": "vs",
+				"path": "./themes/Tomorrow_Night_Blue_2.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Bright",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Bright.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tomorrow_Night_Eighties",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Eighties.tmTheme"
+			},
+			{
+				"label": "MultiTheme ToyMachine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ToyMachine.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tricolor",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tricolor.tmTheme"
+			},
+			{
+				"label": "MultiTheme TricolorLight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TricolorLight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Trixie",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Trixie.tmTheme"
+			},
+			{
+				"label": "MultiTheme Tron",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tron.tmTheme"
+			},
+			{
+				"label": "MultiTheme TronLegacy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TronLegacy.tmTheme"
+			},
+			{
+				"label": "MultiTheme TronLight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TronLight.tmTheme"
+			},
+			{
+				"label": "MultiTheme Turn-Off-Syntax-Highlighting",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Turn-Off-Syntax-Highlighting.tmTheme"
+			},
+			{
+				"label": "MultiTheme Twilight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Twilight.tmTheme"
+			},
+			{
+				"label": "MultiTheme TwoStones",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TwoStones.tmTheme"
+			},
+			{
+				"label": "MultiTheme Userscape",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Userscape.tmTheme"
+			},
+			{
+				"label": "MultiTheme Vibrant_Ink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Vibrant_Ink.tmTheme"
+			},
+			{
+				"label": "MultiTheme VivoSub",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VivoSub.tmTheme"
+			},
+			{
+				"label": "MultiTheme WarmNeon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/WarmNeon.tmTheme"
+			},
+			{
+				"label": "MultiTheme WarpOS",
+				"uiTheme": "vs-dark",
+				"path": "./themes/WarpOS.tmTheme"
+			},
+			{
+				"label": "MultiTheme Welded",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Welded.tmTheme"
+			},
+			{
+				"label": "MultiTheme Whiteboard",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Whiteboard.tmTheme"
+			},
+			{
+				"label": "MultiTheme Wildlife-Day",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Wildlife-Day.tmTheme"
+			},
+			{
+				"label": "MultiTheme Wildlife-Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Wildlife-Night.tmTheme"
+			},
+			{
+				"label": "MultiTheme Wombat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Wombat.tmTheme"
+			},
+			{
+				"label": "MultiTheme Xcode_default",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Xcode_default.tmTheme"
+			},
+			{
+				"label": "MultiTheme Yule",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Yule.tmTheme"
+			},
+			{
+				"label": "MultiTheme Zenburnesque",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Zenburnesque.tmTheme"
+			},
+			{
+				"label": "MultiTheme ZeroDarkMatrix",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ZeroDarkMatrix.tmTheme"
+			},
+			{
+				"label": "MultiTheme Zeus-Sublime-Text",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Zeus-Sublime-Text.tmTheme"
+			},
+			{
+				"label": "MultiTheme ant",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ant.tmTheme"
+			},
+			{
+				"label": "MultiTheme arstotzka",
+				"uiTheme": "vs-dark",
+				"path": "./themes/arstotzka.tmTheme"
+			},
+			{
+				"label": "MultiTheme azure",
+				"uiTheme": "vs-dark",
+				"path": "./themes/azure.tmTheme"
+			},
+			{
+				"label": "MultiTheme bashling",
+				"uiTheme": "vs-dark",
+				"path": "./themes/bashling.tmTheme"
+			},
+			{
+				"label": "MultiTheme blockninja",
+				"uiTheme": "vs-dark",
+				"path": "./themes/blockninja.tmTheme"
+			},
+			{
+				"label": "MultiTheme bold",
+				"uiTheme": "vs-dark",
+				"path": "./themes/bold.tmTheme"
+			},
+			{
+				"label": "MultiTheme chocolate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/chocolate.tmTheme"
+			},
+			{
+				"label": "MultiTheme crisp",
+				"uiTheme": "vs-dark",
+				"path": "./themes/crisp.tmTheme"
+			},
+			{
+				"label": "MultiTheme deep_blue_see",
+				"uiTheme": "vs-dark",
+				"path": "./themes/deep_blue_see.tmTheme"
+			},
+			{
+				"label": "MultiTheme dimmed-monokai-no-contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed-monokai-no-contrast.tmTheme"
+			},
+			{
+				"label": "MultiTheme dimmed-monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed-monokai.tmTheme"
+			},
+			{
+				"label": "MultiTheme dimmed-night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed-night.tmTheme"
+			},
+			{
+				"label": "MultiTheme dimmed-storm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed-storm.tmTheme"
+			},
+			{
+				"label": "MultiTheme dimmed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed.tmTheme"
+			},
+			{
+				"label": "MultiTheme dop",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dop.tmTheme"
+			},
+			{
+				"label": "MultiTheme dropin",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dropin.tmTheme"
+			},
+			{
+				"label": "MultiTheme earthsong-light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/earthsong-light.tmTheme"
+			},
+			{
+				"label": "MultiTheme feel_good",
+				"uiTheme": "vs-dark",
+				"path": "./themes/feel_good.tmTheme"
+			},
+			{
+				"label": "MultiTheme iPlastic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/iPlastic.tmTheme"
+			},
+			{
+				"label": "MultiTheme idleFingers",
+				"uiTheme": "vs-dark",
+				"path": "./themes/idleFingers.tmTheme"
+			},
+			{
+				"label": "MultiTheme karyfoundation-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/karyfoundation-dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme karyfoundation-light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/karyfoundation-light.tmTheme"
+			},
+			{
+				"label": "MultiTheme keen",
+				"uiTheme": "vs-dark",
+				"path": "./themes/keen.tmTheme"
+			},
+			{
+				"label": "MultiTheme kiwi",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kiwi.tmTheme"
+			},
+			{
+				"label": "MultiTheme krTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/krTheme.tmTheme"
+			},
+			{
+				"label": "MultiTheme legacy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/legacy.tmTheme"
+			},
+			{
+				"label": "MultiTheme mintchoc",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mintchoc.tmTheme"
+			},
+			{
+				"label": "MultiTheme monoindustrial",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monoindustrial.tmTheme"
+			},
+			{
+				"label": "MultiTheme monokai-best",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-best.tmTheme"
+			},
+			{
+				"label": "MultiTheme monokai-inverse",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-inverse.tmTheme"
+			},
+			{
+				"label": "MultiTheme monokai_fresh",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai_fresh.tmTheme"
+			},
+			{
+				"label": "MultiTheme monokate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokate.tmTheme"
+			},
+			{
+				"label": "MultiTheme mud",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mud.tmTheme"
+			},
+			{
+				"label": "MultiTheme mutedrainbow_sky",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mutedrainbow_sky.tmTheme"
+			},
+			{
+				"label": "MultiTheme otakon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/otakon.tmTheme"
+			},
+			{
+				"label": "MultiTheme peacocks-in-space",
+				"uiTheme": "vs-dark",
+				"path": "./themes/peacocks-in-space.tmTheme"
+			},
+			{
+				"label": "MultiTheme peel",
+				"uiTheme": "vs-dark",
+				"path": "./themes/peel.tmTheme"
+			},
+			{
+				"label": "MultiTheme piggy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/piggy.tmTheme"
+			},
+			{
+				"label": "MultiTheme preap",
+				"uiTheme": "vs-dark",
+				"path": "./themes/preap.tmTheme"
+			},
+			{
+				"label": "MultiTheme rainbow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rainbow.tmTheme"
+			},
+			{
+				"label": "MultiTheme red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/red.tmTheme"
+			},
+			{
+				"label": "MultiTheme santojon-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/santojon-dark.tmTheme"
+			},
+			{
+				"label": "MultiTheme santojon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/santojon.tmTheme"
+			},
+			{
+				"label": "MultiTheme shrek",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shrek.tmTheme"
+			},
+			{
+				"label": "MultiTheme slate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/slate.tmTheme"
+			},
+			{
+				"label": "MultiTheme snappy-light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/snappy-light.tmTheme"
+			},
+			{
+				"label": "MultiTheme spectral",
+				"uiTheme": "vs-dark",
+				"path": "./themes/spectral.tmTheme"
+			},
+			{
+				"label": "MultiTheme sublime_xoria",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sublime_xoria.tmTheme"
+			},
+			{
+				"label": "MultiTheme super",
+				"uiTheme": "vs-dark",
+				"path": "./themes/super.tmTheme"
+			},
+			{
+				"label": "MultiTheme textmate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/textmate.tmTheme"
+			},
+			{
+				"label": "MultiTheme those_lights",
+				"uiTheme": "vs-dark",
+				"path": "./themes/those_lights.tmTheme"
+			},
+			{
+				"label": "MultiTheme tonic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tonic.tmTheme"
+			},
+			{
+				"label": "MultiTheme toothpaste",
+				"uiTheme": "vs-dark",
+				"path": "./themes/toothpaste.tmTheme"
+			},
+			{
+				"label": "MultiTheme tribal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tribal.tmTheme"
+			},
+			{
+				"label": "MultiTheme turnip",
+				"uiTheme": "vs-dark",
+				"path": "./themes/turnip.tmTheme"
+			},
+			{
+				"label": "MultiTheme wild-cherry",
+				"uiTheme": "vs-dark",
+				"path": "./themes/wild-cherry.tmTheme"
+			},
+			{
+				"label": "MultiTheme x3-alpha",
+				"uiTheme": "vs-dark",
+				"path": "./themes/x3-alpha.tmTheme"
+			},
+			{
+				"label": "MultiTheme zacks",
+				"uiTheme": "vs-dark",
+				"path": "./themes/zacks.tmTheme"
+			},
+			{
+				"label": "MultiTheme zenburn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/zenburn.tmTheme"
+			},
+			{
+				"label": "MultiTheme zombies_ate_my_neighbors",
+				"uiTheme": "vs-dark",
+				"path": "./themes/zombies_ate_my_neighbors.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "46ef4d37-fe4c-4952-94c7-bc83b330daca",
+		"publisherId": "5f9e8d02-77b6-45a3-af56-03c3b65330ca",
+		"publisherDisplayName": "Arturo Arevalo"
+	}
+}

@@ -29,13 +29,6 @@ then
     defaults write com.googlecode.iterm2 PrefsCustomFolder "$HOME/.iterm2"
 fi
 
-# configure VSCode 
-if ! defaults read com.googlecode.VSCode PrefsCustomFolder >/dev/null 2>&1
-then
-    echo "Configuring VSCode profiles and wigets..."
-    defaults write com.googlecode.VSCode PrefsCustomFolder "$HOME/.vscode"
-fi
-
 # configure macOS and logout (necessary for some settings to take effect)
 if ! [ $(defaults read com.apple.dock mru-spaces) -eq 0 ]
 then

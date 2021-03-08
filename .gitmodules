@@ -10,3 +10,6 @@
 [submodule "iterm-components"]
 	path = iterm-components
 	url = https://github.com/sheatsley/iterm-components.git
+[submodule ".vscode/extensions/purplish"]
+	path = .vscode/extensions/purplish
+	url = https://github.com/blainehoak/purplish.git
