@@ -15,7 +15,7 @@ fi
 
 # install homebrew-bundle, packages, casks and mas apps
 echo "Updating brew packages..."
-brew bundle --verbose --file=.brewbundle
+brew bundle --verbose --file=Brewfile
 
 
 # updating the remaining applications through submodules
