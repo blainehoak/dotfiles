@@ -13,7 +13,6 @@ brew "osx-cpu-temp"
 brew "rename"
 brew "speedtest-cli"
 brew "yadm"
-cask "anydo"
 cask "arduino"
 cask "corsair-icue"
 cask "discord"
@@ -23,7 +22,6 @@ cask "flash-npapi"
 cask "iterm2"
 cask "lastpass"
 cask "microsoft-office"
-cask "racket"
 cask "slack"
 cask "spotify"
 cask "spotmenu"
@@ -32,7 +30,6 @@ cask "virtualbox"
 cask "visual-studio-code"
 cask "zoomus"
 cask "zotero"
-mas "Evernote", id: 406056744
 mas "Magnet", id: 441258766
 mas "Notability", id: 736189492
 mas "Xcode", id: 497799835
