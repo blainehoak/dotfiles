@@ -1317,6 +1317,10 @@
 			<string>/Users/blainehoak</string>
 		</dict>
 	</array>
+	<key>OpenArrangementAtStartup</key>
+	<false/>
+	<key>OpenNoWindowsAtStartup</key>
+	<false/>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
 	<key>PointerActions</key>
@@ -1353,6 +1357,8 @@
 		</dict>
 	</dict>
 	<key>Print In Black And White</key>
+	<true/>
+	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>SoundForEsc</key>
 	<false/>
